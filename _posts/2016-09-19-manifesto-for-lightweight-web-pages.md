@@ -1,8 +1,9 @@
-# Manifesto for Lightweight Web Pages
+---
+layout: post
+title: Manifesto for Lightweight Web Pages
+subtitle: My screed against web page bloat
+---
 
-
-
-## My screed against web page bloat
 
 ---
 
