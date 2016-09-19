@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: boghop
 title: Manifesto for Lightweight Web Pages
 subtitle: My screed against web page bloat
 ---
