@@ -5,8 +5,6 @@ subtitle: My screed against web page bloat
 ---
 
 
----
-
 *June 2016* - Publishers have created a web-abusive, reader-hostile web.
 
 In 2016, single web pages from many media sites ranged from 5 to 10 megabytes in size, but the body of many of these articles was simple text. 
@@ -25,9 +23,9 @@ Since at least early 2014, I have been thinking about (maybe obsessing over) the
 
 I'll let others explain the frustrations and solutions by excerpting from links that I have collected since 2013, along with adding my own thoughts. Some aspects of each article could appear in the other articles. Overlap.
 
-* [Design By Writing](/design-by-writing.html)
-* [Create a Comfortable Reading Experience](/create-a-comfortable-reading-experience.html) 
-* [Battle Web Page Bloat](/battle-web-page-bloat.html)
+* [Design By Writing](/design-by-writing)
+* [Create a Comfortable Reading Experience](/create-a-comfortable-reading-experience) 
+* [Battle Web Page Bloat](/battle-web-page-bloat)
 
 
 
