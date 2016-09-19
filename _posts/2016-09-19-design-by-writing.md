@@ -2,6 +2,7 @@
 layout: boghop
 title: Design by Writing
 subtitle: "The content is the interface"
+---
 
 
 
