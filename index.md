@@ -167,7 +167,7 @@ Since at least the beginning of 2014, I've become somewhat obsessed with simplif
 Here's my manifesto for lightweight web pages. If this doesn't qualify as a manifesto, then it's a screed. It's definitely a frustration for the way that some publishers treat the web.
 
 
-* [Intro](http://boghop.com/manifesto-for-lightweight-web-pages.html)
+* [Intro](/manifesto-for-lightweight-web-pages.html)
 * [Design By Writing](http://boghop.com/design-by-writing.html)
 * [Create a Comfortable Reading Experience](http://boghop.com/create-a-comfortable-reading-experience.html)
 * [Battle Page Bloat](http://boghop.com/battle-web-page-bloat.html)
