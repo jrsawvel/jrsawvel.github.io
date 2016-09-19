@@ -7,7 +7,7 @@ subtitle: Fan of the open web
 
 
 <div style="text-align:center;" class="largescreens greylinks" markdown="1">
-[Projects](/me2.html#projects) - [Experience](/me2.html#experience) - [Making](/me2.html#making) - [Other](/me2.html#other-interests) - [Manifesto](/me2.html#manifesto)
+[Projects](/#projects) - [Experience](/#experience) - [Making](/#making) - [Other](/#other-interests) - [Manifesto](/#manifesto)
 </div>
 
 
