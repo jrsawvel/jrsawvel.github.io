@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: homepage
 title: John R. Sawvel
 subtitle: Fan of the open web
 ---
