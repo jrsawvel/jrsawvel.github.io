@@ -35,7 +35,7 @@ Information can also be found at these pages:
 
 ToledoTalk.com and JotHut.com are hosted at HE.net on shared servers where each server hosts dozens of websites, owned by others. The sites use the Apache web server. 
 
-I'm using Amazon Web Services to manage BogHop.com. I bought the domain name through AWS, and I used Route 53 to manage DNS. For the server, I created an EC2 instance. The site uses the Nginx web server.
+I'm using Amazon Web Services to manage Boghop.com. I bought the domain name through AWS, and I used Route 53 to manage DNS. For the server, I created an EC2 instance. The site uses the Nginx web server.
 
 All of my other projects are hosted on a Digital Ocean virtual server Droplet. For these sites, I also use the Nginx web server.
 
@@ -167,7 +167,7 @@ Since at least the beginning of 2014, I've become somewhat obsessed with simplif
 Here's my manifesto for lightweight web pages. If this doesn't qualify as a manifesto, then it's a screed. It's definitely a frustration for the way that some publishers treat the web.
 
 * [Intro](/manifesto-for-lightweight-web-pages)
-* [Design By Writing](http://boghop.com/design-by-writing)
-* [Create a Comfortable Reading Experience](http://boghop.com/create-a-comfortable-reading-experience)
-* [Battle Page Bloat](http://boghop.com/battle-web-page-bloat)
+* [Design By Writing](/design-by-writing)
+* [Create a Comfortable Reading Experience](/create-a-comfortable-reading-experience)
+* [Battle Page Bloat](/battle-web-page-bloat)
 
