@@ -8,9 +8,7 @@ subtitle: "Don't tell us to get glasses"
 
 Unsurprisingly, many viewpoints exist on how to create a comfortable reading experience. I like a large-ish font size and a lot of negative space around the lines, paragraphs, and the body of the content. 
 
-Regardless, I believe that it's important to remember that:
-
-## It's dehumanizing to design without empathy
+Regardless, I believe that it's important to remember tha **it's dehumanizing to design without empathy.**
 
 
 ---
