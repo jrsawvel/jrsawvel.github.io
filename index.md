@@ -120,6 +120,8 @@ I use Linux servers at all three hosting providers.
 * Responsive Web Design
 * Progressive Enhancement
 * Droplet hosting at Digital Ocean
+* EC2 and Route 53 at Amazon Web Services
+* Jekyll with GitHub Pages
 * using SSL for one site
 
 
