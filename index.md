@@ -25,4 +25,4 @@ My goal is to make it easy to publish content to the web.
 * [Other](/other-interests)
 * [Manifesto](/manifesto)
 
-
+[View info on one web page.](/fullpage)
