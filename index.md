@@ -5,7 +5,7 @@ subtitle: Fan of the open web
 ---
 
 
-I enjoy making things, such as web apps, food, art, crafts, and essays.
+I enjoy making things, such as web apps, food, art, crafts, and essays. 
 
 I like to use computer programming languages, combined with other technologies to build tools. My projects require knowledge across the full stack. I strive to keep my apps simple and useful.
 
