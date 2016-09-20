@@ -9,7 +9,7 @@ I enjoy making things, such as web apps, food, art, crafts, and essays.
 
 I like to use computer programming languages, combined with other technologies to build tools. My projects require knowledge across the full stack. I strive to keep my apps simple and useful.
 
-My favorite web programs to build and use include:
+My goal is to make it easy to publish content to the web. My favorite web programs to build and use include:
 
 * [message boards](http://toledotalk.com)
 * [wikis](http://jothut.com/cgi-bin/junco.pl/blogpost/36298/19May2014/Junco-Readmemd) - [also at TT](http://toledotalk.com/cgi-bin/tt.pl/article/16/Lewiki_Home)
@@ -17,7 +17,7 @@ My favorite web programs to build and use include:
 * [image uploaders](http://waxwing.soupmode.com)
 * [a private, web-based messaging app](https://soupmode.com) 
 
-My goal is to make it easy to publish content to the web. 
+More about me:
 
 * [Projects](/projects)
 * [Experience](/experience)
