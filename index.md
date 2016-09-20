@@ -23,4 +23,4 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 
 
 
-[View info on one web page.](/fullpage)
+[<small>(View info on a single web page.)</small>](/fullpage)
