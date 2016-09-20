@@ -4,6 +4,10 @@ title: John R. Sawvel
 subtitle: Fan of the open web
 ---
 
+<div style="text-align:center;" class="greylinks" markdown="1">
+[Projects](/projects) - [Experience](/experience) - [Making](/making) - [Other](/other-interests) - [Manifesto](/manifesto)
+</div>
+
 
 I enjoy making things, such as web apps, food, art, crafts, and essays. 
 
@@ -17,12 +21,6 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 * [image uploaders](http://waxwing.soupmode.com)
 * [a private, web-based messaging app](https://soupmode.com) 
 
-More about me:
 
-* [Projects](/projects)
-* [Experience](/experience)
-* [Making](/making)
-* [Other](/other-interests)
-* [Manifesto](/manifesto)
 
 [View info on one web page.](/fullpage)
