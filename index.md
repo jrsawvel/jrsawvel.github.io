@@ -4,7 +4,7 @@ title: John R. Sawvel
 subtitle: Fan of the open web
 ---
 
-<div style="text-align:center;" class="greylinks" markdown="1">
+<div style="text-align:center;font-size:20px;" class="greylinks" markdown="1">
 [Projects](/projects) - [Experience](/experience) - [Making](/making) - [Other](/other-interests) - [Manifesto](/manifesto)
 </div>
 
