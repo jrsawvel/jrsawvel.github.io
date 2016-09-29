@@ -94,7 +94,7 @@ h2 {
 /*
     margin-bottom: 20px;
 */
-    padding: 0;
+    padding: 10px 0 0 0;
     color: #ccc;
     font-style: italic;
     text-align:center;
@@ -158,7 +158,7 @@ pre code {
 
 .home-link {
     line-height: 90%;
-    font-size: 85%;
+    font-size: 80%;
     text-align: left;
     width: 100%;
     top: 0;
