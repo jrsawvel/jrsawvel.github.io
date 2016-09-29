@@ -169,6 +169,20 @@ pre code {
     text-transform: lowercase
 }
 
+.home-link {
+    line-height:90%;
+    font-size:85%;
+    text-align:right;
+    width:100%;
+    top:10px;
+    left:0;
+    float:right;
+    position:absolute;
+    height:20px;
+    text-transform:lowercase;
+}
+
+
 .home-link a,
 .home-link a:visited {
     color: #ccc;
