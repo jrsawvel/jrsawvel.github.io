@@ -32,7 +32,7 @@ title: Experience
 * Responsive Web Design
 * Progressive Enhancement
 * Droplet hosting at Digital Ocean
-* EC2 and Route 53 at Amazon Web Services
+* Amazon Web Services: Route 53, EC2, and CloudFront
 * Jekyll with GitHub Pages
 * using SSL for one site
 
