@@ -22,5 +22,3 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 * [a private, web-based messaging app](https://soupmode.com) 
 
 
-
-[<small>(View info on a single web page.)</small>](/fullpage)
