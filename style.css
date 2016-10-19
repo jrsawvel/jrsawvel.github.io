@@ -117,11 +117,12 @@ article {
     position: relative;
     max-width: 42.5em; /* 680 px */
     /* max-width: 45em; */ /* 720 px */
+    max-width: 680px;
     margin-top: 0;
     margin-right: auto;
     margin-bottom: 2em;
     margin-left: auto;
-    padding: 0;
+    padding: 0;   
 }
 
 pre code {
