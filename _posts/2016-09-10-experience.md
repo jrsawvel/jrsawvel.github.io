@@ -3,38 +3,75 @@ layout: boghop
 title: Experience
 ---
 
+
 ### Recent
 
- 
+
+#### Programming
+
+* Node.js
+* Perl
+* API Development
+* REST
+* JSON
+
+
+#### Design
+
+* Responsive Web Design
+* Progressive Enhancement
+
+
+#### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* jQuery and jQuery Mobile
+* minifield.js
+* Express framework
+* Handlebars.js templating
+* HTML::Template
+
+
+#### Publishing
+
+* Textile
+* Markdown/MultiMarkdown
+* Jekyll
+* Homegrown CMS apps
+
+
+#### Operating Systems
+
 * Linux
+
+
+#### Servers
+
 * Nginx
 * MySQL
 * CouchDB
 * Eleasticsearch
 * Memcached
 * Redis
-* Perl
-* HTML::Template
-* NodeJS
-* Express
-* Handlebars
-* JavaScript
-* jQuery
-* minified.js
-* CSS
-* HTML
-* MailGun
-* APIs
-* JSON
-* REST
-* Textile
-* Markdown/MultiMarkdown
-* Responsive Web Design
-* Progressive Enhancement
-* Droplet hosting at Digital Ocean
-* Amazon Web Services: Route 53, EC2, and CloudFront
-* Jekyll with GitHub Pages
-* StartSSl and Let's Encrypt
+
+
+#### Web Hosting
+
+* Shared Servers
+* Digital Ocean Droplet
+* GitHub Pages
+* Amazon Web Services
+  *  Route 53
+  *  EC2
+  *  S3
+  *  CloudFront
+* SSL Security with StartSSl and Let's Encrypt
+
+
+
+
 
 
 
