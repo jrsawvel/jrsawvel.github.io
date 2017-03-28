@@ -9,12 +9,12 @@ Here's my manifesto for lightweight web pages. If this doesn't qualify as a mani
 
 These pages are hosted at Boghop.com:
 
-* [Design By Writing](/design-by-writing.html)
-* [Create a Comfortable Reading Experience](/create-a-comfortable-reading-experience.html) 
-* [Battle Web Page Bloat](/battle-web-page-bloat.html)
+* [Design By Writing](http://boghop.com/design-by-writing.html)
+* [Create a Comfortable Reading Experience](http://boghop.com/create-a-comfortable-reading-experience.html) 
+* [Battle Web Page Bloat](http://boghop.com/battle-web-page-bloat.html)
 
 More links:
 
-* [Web Reading UX Etcetera](/web-reading-ux-etcetera.html)
-* [Web Reading UX Etcetera Part 2](/web-reading-ux-etcetera-part-2.html)
-* [Web Reading UX Etcetera Part 3](/web-reading-ux-etcetera-part-3.html)
+* [Web Reading UX Etcetera](http://boghop.com/web-reading-ux-etcetera.html)
+* [Web Reading UX Etcetera Part 2](http://boghop.com/web-reading-ux-etcetera-part-2.html)
+* [Web Reading UX Etcetera Part 3](http://boghop.com/web-reading-ux-etcetera-part-3.html)
