@@ -9,11 +9,12 @@ Here's my manifesto for lightweight web pages. If this doesn't qualify as a mani
 
 These pages are hosted at Boghop.com:
 
+* [Manifesto for Lightweight Web Pages](http://boghop.com/manifesto-for-lightweight-web-pages.html) - Intro
 * [Design By Writing](http://boghop.com/design-by-writing.html)
 * [Create a Comfortable Reading Experience](http://boghop.com/create-a-comfortable-reading-experience.html) 
 * [Battle Web Page Bloat](http://boghop.com/battle-web-page-bloat.html)
 
-More links:
+Overflow info:
 
 * [Web Reading UX Etcetera](http://boghop.com/web-reading-ux-etcetera.html)
 * [Web Reading UX Etcetera Part 2](http://boghop.com/web-reading-ux-etcetera-part-2.html)
