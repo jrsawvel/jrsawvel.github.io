@@ -20,4 +20,3 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 * [blogs](http://maketoledo.com)
 * [image uploaders](http://waxwing.soupmode.com)
 * [a private, web-based messaging app](https://soupmode.com) 
-
