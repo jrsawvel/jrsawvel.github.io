@@ -25,8 +25,8 @@ body {
 
 .site-header {
     width: 100%;
-    margin: 0;
-    padding: 0 0 0 0;
+    margin: 1em 0 1em 0;
+    padding: 0;
     text-align: center;
     /*
     padding-top: 1.3em; 
@@ -135,6 +135,7 @@ hr {
 .menu-links {
     text-align: center;
     font-size: 80%;
+    margin: 0 0 1em 0;
 }
 
 .menu-links a,
@@ -148,6 +149,9 @@ hr {
     text-decoration: underline;
 }
 
+.entry-title {
+    margin: 1em 0 0 0;
+}
 
 .content {
     position: relative;
