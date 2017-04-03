@@ -129,6 +129,7 @@ hr {
 .menu-links {
     max-width: 720px;
     width: 100%;
+    text-align: center;
 }
 
 article {
