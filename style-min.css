@@ -132,7 +132,7 @@ hr {
     text-align: center;
 }
 
-main {
+.content {
     position: relative;
     max-width: 720px;
     width: 100%;
