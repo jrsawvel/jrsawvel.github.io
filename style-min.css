@@ -27,6 +27,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 20px 0 20px 0;
+    text-align: center;
     /*
     padding-top: 1.3em; 
     padding-bottom: 1.3em; 
@@ -34,7 +35,19 @@ body {
     /* height: 100px; */
 }
 
+.site-header a,
+.site-header a:visited {
+    color: #222222;
+    text-decoration: none;
+}
+
+.site-header a:hover {
+    color: #222222;
+    text-decoration: none;
+}
+
 .entry-header{
+    text-align: left;
 }
 
 blockquote {
@@ -86,7 +99,6 @@ h1 {
     padding: 0;
     margin: 0;
     color: #f8f8f8;
-    text-align:center;
     font-size: 28px;
 }
 
@@ -95,7 +107,6 @@ h2 {
     padding: 10px 0 0 0;
     color: #ccc;
     font-style: italic;
-    text-align:center;
     font-weight:normal;
     font-size:23px;
 }
