@@ -16,20 +16,29 @@
 
   <body>
     
+    <header class="site-header">
+      <div class="wrap">
+        <div class="title-area">
+          <h1 class="site-title"><a href="/">John R. Sawvel</a></h1>
+          <h2 class="site-description">Fan of the open web</h2>
+        </div>
+      </div>
+    </header>
     
-    <header> 
-      <h1>{{ page.title }}</h1> 
-      <h2>{{ page.subtitle }}</h2>
+    <main class="content">
+           
+    <header class="entry-header">
+       <h1 class="entry-title">{{ page.title }}</h1>
     </header>
 
     <article>
       {{ content }}
     </article>
 
-
+    </main>
+    
 {% include footer.html %}
 
-  <br />
-  
+   
   </body>
 </html>
