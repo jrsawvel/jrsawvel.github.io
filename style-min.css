@@ -129,13 +129,25 @@ hr {
 .nav-hr {
     margin-top: .8em;
     margin-bottom: .8em;
+    height: .5px;
 }
 
 .menu-links {
-    max-width: 720px;
-    width: 100%;
     text-align: center;
+    margin-bottom: 1em;
 }
+
+.menu-links a,
+.menu-links a:visited {
+    color: #222222;
+    text-decoration: none;
+}
+
+.menu-links a:hover {
+    color: #222222;
+    text-decoration: underline;
+}
+
 
 .content {
     position: relative;
