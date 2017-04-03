@@ -126,6 +126,11 @@ hr {
    margin-bottom:2em;
 }
 
+.menu-links {
+    max-width: 720px;
+    width: 100%;
+}
+
 article {
     position: relative;
     max-width: 720px;
