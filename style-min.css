@@ -127,11 +127,11 @@ hr {
 }
 
 .nav-hr {
-    /* background: #f2f2f2; */
-    background: #e6e6e6;
+    background: #f2f2f2; 
+    /* background: #e6e6e6; */
     margin-top: .8em;
     margin-bottom: .8em;
-    height: .8px;
+    height: 1px;
 }
 
 .menu-links {
