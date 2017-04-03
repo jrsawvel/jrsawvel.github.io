@@ -127,9 +127,9 @@ hr {
 }
 
 .nav-hr {
+    background: #ccc;
     margin-top: .8em;
     margin-bottom: .8em;
-    
 }
 
 .menu-links {
