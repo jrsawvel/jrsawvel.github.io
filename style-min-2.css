@@ -108,23 +108,26 @@ h1 {
 	/* font-size: 4.2rem; */
 }
 
+
 h2 {
-	font-size: 36px;
-	/* font-size: 3.6rem; */
+    margin: 0;
+    padding: 10px 0 0 0;
+    font-style: italic;
+    font-weight:normal;
+    font-size: 1.5rem;
+    font-size: 24px;
 }
 
 h3 {
 	font-size: 30px;
+	margin-top: 40px;
 	/* font-size: 3rem; */
 }
 
 h4 {
 	font-size: 24px;
-	/* font-size: 2.4rem; */
-}
-
-.entry-content h4 {
 	margin-top: 40px;
+	/* font-size: 2.4rem; */
 }
 
 h5 {
@@ -149,14 +152,7 @@ h1 {
     font-size: 36px;
 }
 
-h2 {
-    margin: 0;
-    padding: 10px 0 0 0;
-    font-style: italic;
-    font-weight:normal;
-    font-size: 1.5rem;
-    font-size: 24px;
-}
+
 
 h3, h4 {
     padding-top: 1.875em;
