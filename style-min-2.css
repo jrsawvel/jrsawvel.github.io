@@ -1,4 +1,9 @@
-@import "reset";
+
+/* Baseline Normalize
+--------------------------------------------- */
+/* normalize.css v4.1.1 | MIT License | http://necolas.github.io/normalize.css/ */
+
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}template,[hidden]{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace, monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}button,input{overflow:visible}button,select{text-transform:none}button,html [type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:0.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 
 
 html {
@@ -28,11 +33,6 @@ body {
     margin: 1em 0 0 0;
     padding: 0;
     text-align: center;
-    /*
-    padding-top: 1.3em; 
-    padding-bottom: 1.3em; 
-    */
-    /* height: 100px; */
 }
 
 .site-header a,
@@ -51,20 +51,15 @@ body {
 
 blockquote {
     border-left: 1px solid #666;
-    /* background: #E3F2FD; blue-ish */
-    /* background: #f2f2f2; */
-    /* background: #f5faff;  used at toledotalk - light blue */
     margin: 35px 0 35px .6em;
     padding: 0 0 0 1em;
 }
 
 a {
-    /* color: #0000ff; */
     text-decoration: underline; 
 }
 
 a:visited {
-    /* color: #cc3399; */
     text-decoration: underline; 
 } 
 
@@ -93,11 +88,58 @@ p {
     margin-bottom: 40px;
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight:500;
-    color: #000000;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #000;
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 600;
+	line-height: 1.2;
+	margin: 0 0 20px;
 }
+
+h1 {
+	font-size: 42px;
+	font-size: 4.2rem;
+}
+
+h2 {
+	font-size: 36px;
+	font-size: 3.6rem;
+}
+
+h3 {
+	font-size: 30px;
+	font-size: 3rem;
+}
+
+h4 {
+	font-size: 24px;
+	font-size: 2.4rem;
+}
+
+.entry-content h4 {
+	margin-top: 40px;
+}
+
+h5 {
+	font-size: 20px;
+	font-size: 2rem;
+}
+
+h6 {
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+
+
+
+
+/*
 
 h1 {
     padding: 0;
@@ -127,6 +169,8 @@ h3 {
 h4 {
     font-size: 26px;
 }
+*/
+
 
 
 hr {
