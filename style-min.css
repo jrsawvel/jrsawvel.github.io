@@ -136,7 +136,7 @@ hr {
 
 .menu-links {
     text-align: center;
-    font-size: 90%;
+    font-size: 100%;
     margin: 1.5em 0 2.5em 0;
 }
 
@@ -302,8 +302,11 @@ pre code {
 
 /* 45em = 720px */
 @media only screen and (max-width: 45em) { 
-    article {
+    .content {
         max-width: 90%;
+    }
+    .menu-links {
+        font-size: 80%;
     }
 }
 
