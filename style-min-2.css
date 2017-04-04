@@ -104,22 +104,22 @@ h6 {
 
 h1 {
 	font-size: 42px;
-	font-size: 4.2rem;
+	/* font-size: 4.2rem; */
 }
 
 h2 {
 	font-size: 36px;
-	font-size: 3.6rem;
+	/* font-size: 3.6rem; */
 }
 
 h3 {
 	font-size: 30px;
-	font-size: 3rem;
+	/* font-size: 3rem; */
 }
 
 h4 {
 	font-size: 24px;
-	font-size: 2.4rem;
+	/* font-size: 2.4rem; */
 }
 
 .entry-content h4 {
@@ -128,12 +128,12 @@ h4 {
 
 h5 {
 	font-size: 20px;
-	font-size: 2rem;
+	/* font-size: 2rem; */
 }
 
 h6 {
 	font-size: 18px;
-	font-size: 1.8rem;
+	/* font-size: 1.8rem; */
 }
 
 
