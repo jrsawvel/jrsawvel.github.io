@@ -1,5 +1,5 @@
 ---
-layout: boghop
+layout: boghop-min
 title: Other Interests
 ---
 
