@@ -1,13 +1,6 @@
 ---
-layout: homedefault
-title: John R. Sawvel
-subtitle: Fan of the open web
+layout: boghop-min
 ---
-
-<div style="text-align:center;" class="greylinks" markdown="1">
-[Projects](/projects) - [Experience](/experience) - [Making](/making) - [Other](/other-interests) - [Manifesto](/manifesto)
-</div>
-
 
 I enjoy making things, such as web apps, food, art, crafts, and essays. 
 
