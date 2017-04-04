@@ -6,8 +6,6 @@ html {
     max-height: 100%;
     padding: 0;
     margin: 0;
-    /* font-size: 115%; */
-    font-size: 100%;
 }
 
 img {
@@ -22,7 +20,8 @@ body {
     /* font-family: 'Alegreya Sans', sans-serif; */
     background-color: #ffffff;
     color: #222222;
-    /* font-size: 1.3em; */
+    /* font-size: 115%; */
+    font-size: 100%;
 }
 
 .site-header {
@@ -165,7 +164,8 @@ hr {
     margin-right: auto;
     margin-bottom: 2em;
     margin-left: auto;
-    padding: 0;   
+    padding: 0;
+    font-size: 1.3em;
 }
 
 article {
