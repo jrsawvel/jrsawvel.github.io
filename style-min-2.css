@@ -75,6 +75,7 @@ a:active {
 
 strong, b {
     color: #000;
+    font-weight: 600;
 }
 
 li, ul {
@@ -213,6 +214,7 @@ hr {
 
 .site-title {
     font-size: 30px;
+    font-weight: 500;
 }
 
 .content {
