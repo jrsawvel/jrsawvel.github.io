@@ -4,7 +4,7 @@ title: Recent Experience
 ---
 
 
-#### Programming
+### Programming
 
 * Node.js
 * Perl
@@ -13,13 +13,13 @@ title: Recent Experience
 * JSON
 
 
-#### Design
+### Design
 
 * Responsive Web Design
 * Progressive Enhancement
 
 
-#### Web Development
+### Web Development
 
 * HTML
 * CSS
@@ -31,7 +31,7 @@ title: Recent Experience
 * HTML::Template
 
 
-#### Publishing
+### Publishing
 
 * Textile
 * Markdown/MultiMarkdown
@@ -39,12 +39,12 @@ title: Recent Experience
 * Homegrown CMS apps
 
 
-#### Operating Systems
+### Operating Systems
 
 * Linux
 
 
-#### Servers
+### Servers
 
 * Nginx
 * MySQL
@@ -54,7 +54,7 @@ title: Recent Experience
 * Redis
 
 
-#### Web Hosting
+### Web Hosting
 
 * Shared Servers
 * Digital Ocean Droplet
