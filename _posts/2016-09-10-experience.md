@@ -4,9 +4,6 @@ title: Recent Experience
 ---
 
 
-### Recent
-
-
 #### Programming
 
 * Node.js
