@@ -61,17 +61,17 @@ blockquote {
 }
 
 a {
-    color: #0000ff;
+    /* color: #0000ff; */
     text-decoration: underline; 
 }
 
 a:visited {
-    color: #cc3399;
+    /* color: #cc3399; */
     text-decoration: underline; 
 } 
 
 a:hover {
-    color: #ff0000;
+    color: #ff0000; 
     text-decoration: underline;
 }
 
