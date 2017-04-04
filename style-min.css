@@ -7,7 +7,7 @@ html {
     padding: 0;
     margin: 0;
     /* font-size: 120%; Alegreya */
-    font-size: 100%;
+    font-size: 105%;
 }
 
 img {
@@ -318,7 +318,7 @@ pre code {
 /* 600 px */
 @media only screen and (max-width: 37.5em ) { 
     body {
-        font-size: 1.35em;
+        /* font-size: 1.35em; */
     }
  
     blockquote {
