@@ -106,8 +106,8 @@ h1 {
     padding: 0;
     margin: 0;
     color: #222222;
-    font-size: 1.8rem;
-    font-size: 36px;
+   /* font-size: 1.8rem;
+    font-size: 36px; */
 }
 
 h2 {
@@ -117,6 +117,7 @@ h2 {
     font-style: italic;
     font-weight:normal;
     font-size: 1.5rem;
+    font-size: 24px;
 }
 
 h3, h4 {
@@ -173,7 +174,12 @@ hr {
 }
 
 .entry-title {
+    font-size: 36px;
     
+}
+
+.site-title {
+    font-size: 30px;
 }
 
 .content {
