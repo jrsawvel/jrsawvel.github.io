@@ -64,7 +64,7 @@ title: Recent Experience
   *  EC2
   *  S3
   *  CloudFront
-* SSL Security with StartSSl and Let's Encrypt
+* SSL Security with StartSSL and Let's Encrypt
 
 
 
