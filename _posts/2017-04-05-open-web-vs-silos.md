@@ -4,7 +4,7 @@ title: Defining the Open Web and Silos
 ---
 
 
-*created on Oct 7, 2016*
+<small>*created on Oct 7, 2016*</small>
 
 The "open web" and "silos", those terms are confusing. What do they mean? 
 
