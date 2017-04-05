@@ -451,7 +451,11 @@ pre code {
         font-size: 70%;
     }
 	.nav-menu {
-		line-height: 1em;
+		line-height: 1.2em;
+	}
+	.nav-menu a {
+	    padding-right: 7px;
+		padding-left: 7px;
 	}
 }
 
