@@ -119,9 +119,10 @@ h2 {
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 32px;
 	margin-top: 90px;
 	/* font-size: 3rem; */
+	border-bottom:1px solid #eee;
 }
 
 h4 {
