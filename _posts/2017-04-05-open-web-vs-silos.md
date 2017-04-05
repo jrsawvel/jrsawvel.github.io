@@ -1,5 +1,5 @@
 ---
-layout: boghop-min-2
+layout: boghop-min
 title: Defining the Open Web and Silos
 ---
 
