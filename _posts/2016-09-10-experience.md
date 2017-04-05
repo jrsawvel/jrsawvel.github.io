@@ -4,7 +4,7 @@ title: Recent Experience
 ---
 
 
-### Programming
+<h3 id="programming" style="margin-top:0;padding-top:0;">Programming</h3>
 
 * Node.js
 * Perl
