@@ -448,8 +448,11 @@ pre code {
         max-width: 90%;
     }
     .menu-links {
-        font-size: 60%;
+        font-size: 70%;
     }
+	.nav-menu {
+		line-height: 1em;
+	}
 }
 
 /* 600 px */
