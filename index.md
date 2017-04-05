@@ -14,4 +14,4 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 * [image uploaders](http://waxwing.soupmode.com)
 * [a private, web-based messaging app](https://soupmode.com) 
 
-[What is the open web?](http://boghop.com/2016/10/07/defining-open-web-and-silos.html)
+<small>Sidenote: [What is the open web?](http://boghop.com/2016/10/07/defining-open-web-and-silos.html)</small>
