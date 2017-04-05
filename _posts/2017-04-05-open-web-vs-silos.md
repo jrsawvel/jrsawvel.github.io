@@ -10,7 +10,7 @@ The "open web" and "silos", those terms are confusing. What do they mean?
 
 Here's a 2010 post at tantek.com, titled [What is the Open Web?](http://tantek.com/2010/281/b1/what-is-the-open-web).
 
-tantek started or helped to start the [Indieweb](https://indieweb.org) movement in 2010. In that 2010 post, he wrote about the ope web:
+tantek started or helped to start the [Indieweb](https://indieweb.org) movement in 2010. In that 2010 post, he wrote about the open web:
 
 > And that's my rough working definiton of what is the open web. In summary:
 
