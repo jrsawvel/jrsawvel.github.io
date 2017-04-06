@@ -366,7 +366,8 @@ pre code {
 
 .sitewide-footer {
     margin: 1.5em 0 1.5em 0;
-    text-align: center
+    text-align: center;
+	font-size: 80%;
 }
 
 .sitewide-footer a,
