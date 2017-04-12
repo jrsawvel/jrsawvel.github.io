@@ -10,8 +10,8 @@ My goal is to make it easy to publish content to the web. My favorite web progra
 
 * [message boards](http://toledotalk.com)
 * [wikis](http://jothut.com/cgi-bin/junco.pl/blogpost/36298/19May2014/Junco-Readmemd) - [also at TT](http://toledotalk.com/cgi-bin/tt.pl/article/16/Lewiki_Home)
-* [blogs](http://maketoledo.com)
+* [blogs](http://maketoledo.com) as [CMS apps](http://babyutoledo.com)
 * [image uploaders](http://waxwing.soupmode.com)
-* [a private, web-based messaging app](https://soupmode.com) 
+* [private, web-based messaging app](https://soupmode.com) 
 
 BTW, [what is the open web?](http://www.jrsawvel.com/open-web-vs-silos/)
