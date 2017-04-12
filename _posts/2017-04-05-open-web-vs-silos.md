@@ -53,19 +53,27 @@ When a Facebook page is only accessible when logged into Facebook, then that's a
 
 But if the business's Facebook page is available to everyone, is that the open web or still a silo? The publisher chose to host content at Facebook, instead of at WordPress or Medium. Maybe the publisher is unconcerned about owning a domain name. Maybe the publisher does not want to install and manage software on a server. And small business owners have more important things to be concerned about. Unless some guidelines are violated, the Facebook page will probably last as long as the business. 
 
-One theory is that in the future, independent websites won't exist. People, businesses, and orgs will publish on platforms, like Medium.com, Facebook, Instagram, and Snapchat. It's already that way for some small, locally-owned businesses in the Toledo area, which do not have a website with their own domain name. 
+Quote by someone:
 
-An easy example of publishing to a silo is Facebook's Instant Articles, which only functions within Facebook's native app for the phone. I don't think that IA works in the company's native app for tablets. It's phone app only. Obviously, IA does not work for the web on any device. 
+> "If you aren't paying for something, then you aren't the customer. You're the product being sold."
+
+One aspect of the open web could be that the author's content and actions are not re-purposed by the hosting service and used for targeted advertising. That eliminates Facebook from open web contention.
+
+Some people think that in the future, independent websites won't exist. People, businesses, and orgs will publish on platforms, like Medium.com, Facebook, Instagram, and Snapchat. It's already that way for some small, locally-owned businesses in the Toledo area, which do not have a website with their own domain name. 
+
+An easy example of publishing to a silo is Facebook's Instant Articles, which only functions within Facebook's native app for the phone. I don't think that IA works in the company's native app for tablets. It's phone-app-only. Obviously, IA does not work for the web on any device. 
 
 Facebook's Instant Articles relies on a Facebook-flavored RSS file. RSS is an open web example, but the default RSS feed of websites won't work. CMSs need updated to produce a different RSS file for IA. 
 
 Instant Articles is an interesting publishing mechanism, since updates on the publishers' websites get accepted by IA. But again, it's available on Facebook's native phone app only.
 
-Phone app only is not the open web. I don't want to install nor use native apps on the phone except for web and gopher browsers. 
+Phone-app-only is not the open web. I don't want to install nor use native apps on the phone except for web and gopher browsers. A theory: [The Open Web is the Answer to App Censorship](http://boghop.com/2017/01/18/the-open-web-is-the-answer-to-app-censorship.html).
 
 The debate will continue, regarding the open web and silos. Most users, publishers, businesses, and other orgs don't care about such trivia. They're too busy with other facets of life. They want to use the easiest tools available that provide the most reach to their readers, fans, customers, and contributors. 
 
-And if the preferred publishing and communicating platform for these users is Faceook, then that is NOT Facebook's fault. It's the fault of the open web geeks because the geeks failed to create an easier system.
+And if the preferred publishing and communicating platform for these users is Faceook, then that is NOT Facebook's fault. It's the fault of the open web geeks for failing to create easier systems.
+
+The Blogosphere of the late 1990s to the mid-aughts was a holistic, organic, decentralized social network of sorts that relied on personal websites, comments, RSS, pingbacks, trackbacks, and blog search engine Technorati. 
 
 Facebook launched in February 2004, but it remained closed to certain email addresses or users until September 2006 when Facebook opened up to everyone. Facebook to the world is only 10-years-old. The internet began in the late 1960s or early 1970s. The web began around 1990. The web became popular to the masses by the mid 1990s. 
 
@@ -75,4 +83,7 @@ People who have built open source products have contributed to the open web. Exa
 
 I think that the message boards, such as Hacker News and the Stack Exchange sites contribute to the open and closed web, since discussions help inspire people to build things, and meaty discussions can alter the opinions of makers.
 
-In my opinion, the Indiweb fans have done the most to support the open web. The Indieweb attracts new converts every year. The Indieweb ideas are probably too technical for mass adoption, but the Indieweb has taken a long, slow approach to change. We don't know what the next big thing will be. We don't know for certain how people will be creating, sharing, and responding to content five to ten years from now. It's possible that the Indieweb ideas will slowly creep into the mainstream.
+In my opinion, the Indiweb people have done the most to support the open web. The Indieweb attracts new converts every year. 
+At the moment, the Indieweb ideas are probably too technical for mass adoption. But the Indieweb is taking a long, slow approach to change. 
+
+We don't know what the next big thing will be. We don't know for certain how people will be creating, sharing, and responding to content five to ten years from now. Hopefully, some of the Indieweb ideas will creep into the mainstream.
