@@ -87,3 +87,5 @@ In my opinion, the Indiweb people have done the most to support the open web. Th
 At the moment, the Indieweb ideas are probably too technical for mass adoption. But the Indieweb is taking a long, slow approach to change. 
 
 We don't know what the next big thing will be. We don't know for certain how people will be creating, sharing, and responding to content five to ten years from now. Hopefully, some of the Indieweb ideas will creep into the mainstream.
+
+<https://www.wired.com/2010/08/ff_webrip>
