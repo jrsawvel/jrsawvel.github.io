@@ -39,7 +39,33 @@ When small publishers such as The Awl moved their content from their own server 
 
 If I host at WordPress.com, Blogger.com, Medium.com, Tumblr.com, DigitalOcean.com, or Amazon.com/aws, how are some hosted solutions considered a silo while others are considered the open web?
 
-Websites that are built as a JavaScript single page applications do not support the open web in my opinion. That's an easy one, regardless of where the site is hosted. When JavaScript is disabled, these sites display nothing. When SPA pages are curled, the downloaded content consists mainly of a link to the JavaScript code. No article content exists when curled.
+In my opinion, public websites that are meant to be read by browsing-only users and are built as a JavaScript single page applications (SPA) do not support the open web. That's an easy one, regardless of where the site is hosted. When JavaScript is disabled, these sites display no article content. 
+
+When SPA pages are [curled](https://curl.haxx.se) with a command prompt utility, the downloaded content consists mainly of JavaScript code or a link to the JavaScript that will fetch the content and display it dynamically in a browser that can execute JavaScript. When a web page is considered not [curlable](https://indieweb.org/curlable), it means that the page contains no content.
+
+2015 tantek.com post: [js;dr = JavaScript required; Didn’t Read](http://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
+
+> Pages that are empty without JS: dead to history (archive-org), unreliable for search results (despite any search engine claims of JS support, check it yourself), and thus ignorable. No need to waste time reading or responding. Also known as, if it’s not curlable, it’s not on the web.
+
+Excerpt from a 2015 Hacker News [thread](https://news.ycombinator.com/item?id=9236551) about curl:
+
+> "If it doesn't load through curl, it's broken." --someone 
+
+> ... requiring code execution in order to read data [text] is madness. I wasn't saying not to do the fancy stuff but rather to start with something which degrades well and then have your JavaScript enhance that basic experience. 
+
+That last sentence touches on the concept of [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement).
+
+If the SPA or JavaScript-heavy website, however, is a "web app" that requires a user to login to perform functions, such as using email, preparing tax returns, building a market research survey, banking, shoppping, etc., then I can understand the use of JavaScript, and I have no problem with it. But if JavaScript is required simply to read a website, then that's anti-open web. 
+
+If an app other than a web browser is required to be downloaded and installed simply to read a website, then that's also anti-open web. It doesn't matter if the app uses web technology, such as REST, JSON, http/https. 
+
+But users may prefer apps over the open web even when acting as browsingly-only users.
+
+2010 Wired article with the sensationalistic title [The Web is Dead. Long Live the Internet](https://www.wired.com/2010/08/ff_webrip)
+
+> As much as we love the open, unfettered Web, we’re abandoning it for simpler, sleeker services that just work. You’ve spent the day on the Internet — but not on the Web. Over the past few years, one of the most important shifts in the digital world has been the move from the wide-open Web to semiclosed platforms that use the Internet for transport but not the browser for display. 
+
+> It’s driven primarily by the rise of the iPhone model of mobile computing, and it’s a world Google can’t crawl, one where HTML doesn’t rule. And it’s the world that consumers are increasingly choosing, not because they’re rejecting the idea of the Web but because these dedicated platforms often just work better or fit better into their lives (the screen comes to them, they don’t have to go to the screen). 
 
 I store most of my images at Flickr to be embedded into my web posts. That's using a silo to support my open web sites. If Flickr disappeared without warning, then my pages would contain missing images. But I backup my images to DVDs, or I used to, which permits me to retrieve the images to be uploaded to either my own site or to another image hosting service.
 
@@ -73,11 +99,13 @@ The debate will continue, regarding the open web and silos. Most users, publishe
 
 And if the preferred publishing and communicating platform for these users is Faceook, then that is NOT Facebook's fault. It's the fault of the open web geeks for failing to create easier systems.
 
-The Blogosphere of the late 1990s to the mid-aughts was a holistic, organic, decentralized social network of sorts that relied on personal websites, comments, RSS, pingbacks, trackbacks, and blog search engine Technorati. 
+The Blogosphere of the late 1990s to the mid-aughts was a holistic, organic, decentralized social network of sorts that relied on personal websites, comments, RSS, pingbacks, trackbacks, and the blog search engine Technorati. 
 
 Facebook launched in February 2004, but it remained closed to certain email addresses or users until September 2006 when Facebook opened up to everyone. Facebook to the world is only 10-years-old. The internet began in the late 1960s or early 1970s. The web began around 1990. The web became popular to the masses by the mid 1990s. 
 
-The open web fans had a 10- to 15-year headstart on Facebook. And now 10 more years have passed. Automattic/WordPress permit users to download their software for users to customize and install. That supports the open web. WordPress is the most popular CMS. Drupal is popular too. Ghost is relatively new.
+The open web fans had a 10- to 15-year headstart on Facebook. And now 10 more years have passed. 
+
+Automattic/WordPress permits users to download, install, and customize their software. That supports the open web. WordPress is the most popular CMS. Numerous other CMS, blog, and wiki systems exist that can be freely downloaded by publishers.
 
 People who have built open source products have contributed to the open web. Examples include publishing systems, web servers, database servers, caching servers, programming languages, and frameworks. 
 
@@ -87,5 +115,3 @@ In my opinion, the Indiweb people have done the most to support the open web. Th
 At the moment, the Indieweb ideas are probably too technical for mass adoption. But the Indieweb is taking a long, slow approach to change. 
 
 We don't know what the next big thing will be. We don't know for certain how people will be creating, sharing, and responding to content five to ten years from now. Hopefully, some of the Indieweb ideas will creep into the mainstream.
-
-<https://www.wired.com/2010/08/ff_webrip>
