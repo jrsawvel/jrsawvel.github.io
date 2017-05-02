@@ -23,7 +23,21 @@ I think that the open web means hosting content on one's own domain, and the con
 
 Websites that support the open web should use progressive enhancement to allow their content to be available when JavaScript is disabled or when their article pages are accessed via curl.
 
-But I read blogs that do not use a domain name, except for what Blogger provides, which is like yoursitename.blogspot.com. Is that the open web or a silo? People who use Medium, WordPress, Tumblr, and Blogger without domain name mapping have carved out their own spaces on the internet. That feels like the open web to me. Maybe the open web vs silo debate means different things to different people.
+The open web could mean that publishers have the ability to change the look of their websites to be anything that they want. No limitations on theming. 
+
+The open web might mean that publishers can change the software that produces their website. For example, authors could modify their code to support the Textile markup language in addition to Markdown. No limitations on programming.
+
+The open web might mean that publishers only use a simple text editor to create static HTML pages, and they can markup their web pages anyway they desire. Authors can create and update their pages locally on their laptops, tablets, etc. and upload them to their web servers. Or they can log onto their servers to create and update their web pages.
+
+The open web may mean that publishers have nearly unlimited flexibility. The authors rarely encounter a wall that cannot be knocked down.
+
+That's my beginning definition of the open web. But the open web vs silo debate probably means different things to different people.
+
+I read blogs that do not use a domain name, except for what Blogger provides, which would be `yoursitename.blogspot.com.` Is that the open web or a silo? 
+
+People who use Medium, WordPress, Tumblr, and Blogger without domain name mapping have carved out their own web spaces on the internet. That feels somewhat like the open web to me. 
+
+But those users have little to no access to modify the source code that creates their websites. Authors can make theme changes, but mostly, those users are walled in to what those services provide by default. And that may be good enough for those publishers.
 
 * [tweet](https://mobile.twitter.com/kevinmarks/status/784330241049100288?p=p) by Indieweb developer: 
 
@@ -33,15 +47,17 @@ It's comical that the above opinion is a Twitter post, but that Indieweb user st
 
 Anyway, if someone creates a blog at WordPress.com, which means using the WordPress or Automattic servers to host the content, then the publisher won't need to create a server hosting account with Digital Ocean, Dreamhost, Amazon Web Services, etc, which means the publisher won't need to download, install, configure, and manage the web publishing software. All of the server hosting and software management are conducted by WordPress. 
 
-The publisher is free to focus on a website design theme and publishing content. The publisher's domain name would be yoursite.wordpress.com. Is that the open web or a silo? WordPress supports domain name mapping, which means publishers can buy domain names and point the names to their WordPress accounts, creating yoursite.com. Is the latter more open web than the former even though all hosting is the same? This is what's confusing.
+The publisher is free to focus on a website design theme and creating content. The publisher's domain name would be yoursite.wordpress.com. Is that the open web or a silo? WordPress supports domain name mapping, which means publishers can buy domain names and point the names to their WordPress accounts, creating yoursite.com. Is the latter more open web than the former even though all hosting is the same? 
 
-When small publishers such as The Awl moved their content from their own server hosting accounts to Medium, did those publishers move from the open web to a silo even though their domain names remain unchanged? Confusing.
+This is what's confusing. In the above scenario, the setup meets most of my requirements of the open web. The author with the above setup cannnot make significant overhauls to the server-side source code. But most publishers don't care about changing the CMS source code. Besides, authors can install Wordpress plug-ins that satisfy their requirements.
 
-If I host at WordPress.com, Blogger.com, Medium.com, Tumblr.com, DigitalOcean.com, or Amazon.com/aws, how are some hosted solutions considered a silo while others are considered the open web?
+When small publishers such as The Awl moved their content from their own server hosting accounts to Medium, did those publishers move from the open web to a silo even though their domain names remain unchanged? Confusing. At least when The Awl hosted on their own servers, they could change the CMS source code, and they could create a unique look on the front end. But many publishers want to focus on writing and not on programming, desisning, and sys-admin functions.
+
+If I host at WordPress.com, Blogger.com, Medium.com, Tumblr.com, DigitalOcean.com, or Amazon.com/aws, how are some hosted solutions considered a silo while others are considered the open web? Again, self-hosting at DO or AWS enables full control over how the site is built and how it looks. Maybe degrees of open webness exist. That would make things even more confusing.
 
 In my opinion, public websites that are meant to be read by browsing-only users and are built as a JavaScript single page applications (SPA) do not support the open web. That's an easy one, regardless of where the site is hosted. When JavaScript is disabled, these sites display no article content. 
 
-When SPA pages are [curled](https://curl.haxx.se) with a command prompt utility, the downloaded content consists mainly of JavaScript code or a link to the JavaScript that will fetch the content and display it dynamically in a browser that can execute JavaScript. When a web page is considered not [curlable](https://indieweb.org/curlable), it means that the page contains no content.
+When SPA pages are [curled](https://curl.haxx.se) with a command prompt utility, the downloaded content consists mainly of JavaScript code or a link to the JavaScript that will fetch the content and display it dynamically in a web browser that can execute JavaScript. SPA pages fail in the text-based Lynx web browser. When a web page is considered not [curlable](https://indieweb.org/curlable), it means that the page contains no content.
 
 2015 tantek.com post: [js;dr = JavaScript required; Didn’t Read](http://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
 
@@ -59,9 +75,9 @@ If the SPA or JavaScript-heavy website, however, is a "web app" that requires a 
 
 If an app other than a web browser is required to be downloaded and installed simply to read a website, then that's also anti-open web. It doesn't matter if the app uses web technology, such as REST, JSON, http/https. 
 
-But users may prefer apps over the open web even when acting as browsingly-only users.
+But users may prefer apps over the open web, even when acting as browsingly-only users. Designers and developers respond to user preferences. 
 
-2010 Wired article with the sensationalistic title [The Web is Dead. Long Live the Internet](https://www.wired.com/2010/08/ff_webrip)
+An "old" 2010 Wired article with the sensationalistic title [The Web is Dead. Long Live the Internet](https://www.wired.com/2010/08/ff_webrip)
 
 > As much as we love the open, unfettered Web, we’re abandoning it for simpler, sleeker services that just work. You’ve spent the day on the Internet — but not on the Web. Over the past few years, one of the most important shifts in the digital world has been the move from the wide-open Web to semiclosed platforms that use the Internet for transport but not the browser for display. 
 
@@ -77,7 +93,9 @@ When I host at DO or AWS, is that supporting or opposing the open web? I could l
 
 When a Facebook page is only accessible when logged into Facebook, then that's a silo or closed web. It's odd that some businesses set their Facebook pages to a private setting that excludes people like me who do not have an active Facebook account. 
 
-But if the business's Facebook page is available to everyone, is that the open web or still a silo? The publisher chose to host content at Facebook, instead of at WordPress or Medium. Maybe the publisher is unconcerned about owning a domain name. Maybe the publisher does not want to install and manage software on a server. And small business owners have more important things to be concerned about. Unless some guidelines are violated, the Facebook page will probably last as long as the business. 
+But if the business's Facebook page is available to everyone, is that the open web or still a silo? Based upon my requirements above, it's a silo. The business owner has little to no access to change how the site looks and functions. 
+
+The publisher chose to host content at Facebook, instead of at WordPress or Medium. Maybe the publisher is unconcerned about owning a domain name. Maybe the publisher does not want to install and manage software on a server. And small business owners have more important things to be concerned about. Unless some guidelines are violated, the Facebook page will probably last as long as the business. 
 
 Quote by someone:
 
