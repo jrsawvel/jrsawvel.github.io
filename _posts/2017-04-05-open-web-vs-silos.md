@@ -129,7 +129,6 @@ People who have built open source products have contributed to the open web. Exa
 
 I think that the message boards, such as Hacker News and the Stack Exchange sites contribute to the open and closed web, since discussions help inspire people to build things, and meaty discussions can alter the opinions of makers.
 
-In my opinion, the Indiweb people have done the most to support the open web. The Indieweb attracts new converts every year. 
-At the moment, the Indieweb ideas are probably too technical for mass adoption. But the Indieweb is taking a long, slow approach to change. 
+In my opinion, the Indiweb people have done the most to support the open web. The Indieweb attracts new converts every year.  Currently, the Indieweb ideas are probably too technical for mass adoption. But the Indieweb is taking a long, slow approach to change. 
 
 We don't know what the next big thing will be. We don't know for certain how people will be creating, sharing, and responding to content five to ten years from now. Hopefully, some of the Indieweb ideas will creep into the mainstream.
