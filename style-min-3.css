@@ -413,6 +413,10 @@ nav-primary:after,
         /* font-family: sans-serif;  */
     }
 	
+    .menu-links {
+        font-size: 70%;
+    }
+	
     p {
         padding-top: .7em;
         padding-bottom: .7em;
