@@ -372,11 +372,7 @@ nav-primary:after,
 }
 
 /* 600 px */
-@media only screen and (max-width: 37.5em ) { 
-    body {
-        
-    }
- 
+@media only screen and (max-width: 37.5rem ) { 
     blockquote {
         padding: 0 0 0 5px;
         margin: 35px 0 35px 0; 
