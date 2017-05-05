@@ -409,8 +409,8 @@ nav-primary:after,
     body {
         color: #000;
         background-color: #fff;
-        font-size: 100%;
-        line-height: 120%;
+        /* font-size: 100%;
+        line-height: 120%; */
         max-width: 100%;
         /* font-family: sans-serif;  */
     }
