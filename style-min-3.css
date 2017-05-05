@@ -406,11 +406,14 @@ nav-primary:after,
 }
 
 @media print {
+    html {
+        font-size: small;
+    }
     body {
         color: #000;
         background-color: #fff;
-        /* font-size: 100%;
-        line-height: 120%; */
+        /* font-size: 100%; */
+        line-height: 1.0;
         max-width: 100%;
         /* font-family: sans-serif;  */
     }
