@@ -101,7 +101,7 @@ h2 {
 h3 {
     font-size: 32px;
     font-size: 1.52380952381em;
-    margin-top: 4.28571428571em; /* 90px divided by 21 px */
+    margin-top: 3em; /* 90px divided by 21 px */
 }
 
 /* I'm not using h4, h5, and h6 with this website. */
@@ -109,7 +109,7 @@ h3 {
 h4 {
     font-size: 24px;
     font-size: 1.14285714286em;
-    margin-top: 4.28571428571em; /* 90px divided by 21 px */
+    margin-top: 3em; /* 90px divided by 21 px */
 }
 
 h5 {
