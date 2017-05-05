@@ -404,3 +404,19 @@ nav-primary:after,
         display: none; 
     }
 }
+
+@media print {
+    body {
+        color: #000;
+        background-color: #fff;
+        font-size: 100%;
+        line-height: 120%;
+        max-width: 100%;
+        /* font-family: sans-serif;  */
+    }
+    p {
+        padding-top: .7em;
+        padding-bottom: .7em;
+        margin: 0;
+    }
+}
