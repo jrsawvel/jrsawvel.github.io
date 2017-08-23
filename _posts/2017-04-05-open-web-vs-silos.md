@@ -39,7 +39,7 @@ The above philosophy represents my definition of the open web too. The IndieWeb 
 June 2016 The Atlantic [story](https://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/?single_page=true)
 
 > The open web is the nickname for the internet as it should be—free, uncensorable, and independently owned and operated. According to the blog posts that hashed out most of its theory (and which themselves were published on the open web), the open web describes an internet where people mostly publish their writing (or music, or photos, or films) to servers that they own or rent, accessible via their own personal domain names, in formats that are themselves free or unrestricted. 
-
+>
 > It is the web because the pages are written in HTML and CSS; it is open because anyone can access almost all of it, without special privileges, expenditures, or a user account. Above all, the open web is free—free like language is free, like consciousness is free. Freedom not so much as a right, but as a technical and inalienable fact.
 
 
@@ -51,21 +51,21 @@ June 2016 The Atlantic [story](https://www.theatlantic.com/technology/archive/20
 May 2017 - The Verge - [And now, a brief definition of the web](https://www.theverge.com/2017/5/24/15681958/what-is-web-definition)
 
 > To count as being part of the web, your app or page must:
-
+>
 > 1. Be linkable, and
-
+>
 > 2. Allow any client to access it.
-
+>
 > That's it. Okay, not really. There are a lot of details to get into here, specifically with the second point. 
-
+>
 > But let's tackle the first, because it's easy. Whatever it is you're publishing should be linkable: it should have a URL that other things can point to.
-
+>
 > For the web, that rule is pretty clear: whether you use Chrome or Safari or Edge or Opera or whatever, when you click a link or type in a URL, you get the page you wanted (more or less). Those pages are agnostic to the client.
-
+>
 > That agnosticism isn't easy; it's driven by web standards and the W3C organization that crafts them. 
-
+>
 > It can get messy, though, especially with technologies like Instant Articles or AMP. Particularly AMP, which is build on a subset of the same HTML stack that powers the web.
-
+>
 > ...  the real issue for AMP being part of the web is that Google defines the terms of what does and doesn't work on AMP and could limit it whenever it likes.
 
 
@@ -76,9 +76,9 @@ May 2017 - The Verge - [And now, a brief definition of the web](https://www.thev
 May 2017 - The Register - [Kill Google AMP before it KILLS the web](https://www.theregister.co.uk/2017/05/19/open_source_insider_google_amp_bad_bad_bad)
 
 > Google’s AMP is bad — bad in a potentially web-destroying way. Google AMP is bad news for how the web is built, it’s bad news for publishers of credible online content, and it’s bad news for consumers of that content. Google AMP is only good for one party: Google. 
-
+>
 > So far AMP actually sounds appealing. Except that, hilariously, to create an AMP page you have to load a, wait for it, yes a JavaScript file from Google. Pinboard founder Maciej Cegłowski already recreated the Google AMP demo page without the Google AMP JavaScript and, unsurprisingly, it's faster than Google's version.
-
+>
 > So it's not really about speed. As with anything that eschews standards for its own modified version thereof, it's about lock-in. Tons of pages in Google AMP markup mean tons of pages that are optimized specifically for Google and indexed primarily by Google and shown primarily to Google users. It's Google's attempt to match Facebook's platform. And yes, Facebook is far worse than AMP, but that doesn't make Google AMP a good idea. At least Facebook doesn't try to pretend like it's open.
 
 
