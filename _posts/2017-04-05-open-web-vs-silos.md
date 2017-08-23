@@ -15,7 +15,7 @@ Here's a 2010 post at tantek.com, titled [What is the Open Web?](http://tantek.c
 tantek started or helped to start the [Indieweb](https://indieweb.org) movement in 2010. In that 2010 post, he wrote about the open web:
 
 > In summary:
-
+>
 > * open content and application publishing
 * open ability to code and implement the standards that such content depends on
 * open access to content, web-applications, web standards implementations (browsers), and the internet.
