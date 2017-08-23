@@ -495,7 +495,7 @@ Facebook's Instant Articles relies on a Facebook-flavored RSS file. RSS is an op
 
 Instant Articles is an interesting publishing mechanism, since updates on the publishers' websites get accepted by IA. But again, it's available on Facebook's native phone app only.
 
-Phone-app-only is not the open web. I don't want to install nor use native apps on the phone except for web and gopher browsers. A theory: [The Open Web is the Answer to App Censorship](/2017/01/18/the-open-web-is-the-answer-to-app-censorship.html).
+Phone-app-only is not the open web. I don't want to install nor use native apps on the phone except for web and gopher browsers. A theory: [The Open Web is the Answer to App Censorship](http://sawv.org/2017/01/18/the-open-web-is-the-answer-to-app-censorship.html).
 
 The debate will continue, regarding the open web and silos. Most users, publishers, businesses, and other orgs don't care about such trivia. They're too busy with other facets of life. They want to use the easiest tools available that provide the most reach to their readers, fans, customers, and contributors. 
 
