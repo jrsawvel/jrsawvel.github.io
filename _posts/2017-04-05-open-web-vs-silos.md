@@ -51,21 +51,21 @@ June 2016 The Atlantic [story](https://www.theatlantic.com/technology/archive/20
 May 2017 - The Verge - [And now, a brief definition of the web](https://www.theverge.com/2017/5/24/15681958/what-is-web-definition)
 
 > To count as being part of the web, your app or page must:
-
+>
 > 1. Be linkable, and
-
+>
 > 2. Allow any client to access it.
-
+>
 > That's it. Okay, not really. There are a lot of details to get into here, specifically with the second point. 
-
+>
 > But let's tackle the first, because it's easy. Whatever it is you're publishing should be linkable: it should have a URL that other things can point to.
-
+>
 > For the web, that rule is pretty clear: whether you use Chrome or Safari or Edge or Opera or whatever, when you click a link or type in a URL, you get the page you wanted (more or less). Those pages are agnostic to the client.
-
+>
 > That agnosticism isn't easy; it's driven by web standards and the W3C organization that crafts them. 
-
+>
 > It can get messy, though, especially with technologies like Instant Articles or AMP. Particularly AMP, which is build on a subset of the same HTML stack that powers the web.
-
+>
 > ...  the real issue for AMP being part of the web is that Google defines the terms of what does and doesn't work on AMP and could limit it whenever it likes.
 
 
