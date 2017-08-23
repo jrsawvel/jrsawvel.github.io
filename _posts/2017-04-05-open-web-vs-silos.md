@@ -8,7 +8,7 @@ title: Defining the Open Web and Silos
 
 (This long page needs pared down.)
 
-The "open web" and "silos", what do they mean? Most internet users don't care. And they probably don't have a reason to be concerned. Those terms can be confusing to the few people who *do* care about the differences. 
+The "open web" and "silos", what do they mean? Most internet users don't care, and they probably don't have a reason to be concerned. Those terms can be confusing to the few people who *do* care about the differences. 
 
 Here's a 2010 post at tantek.com, titled [What is the Open Web?](http://tantek.com/2010/281/b1/what-is-the-open-web).
 
