@@ -51,21 +51,21 @@ June 2016 The Atlantic [story](https://www.theatlantic.com/technology/archive/20
 May 2017 - The Verge - [And now, a brief definition of the web](https://www.theverge.com/2017/5/24/15681958/what-is-web-definition)
 
 > To count as being part of the web, your app or page must:
->
+
 > 1. Be linkable, and
->
+
 > 2. Allow any client to access it.
->
+
 > That's it. Okay, not really. There are a lot of details to get into here, specifically with the second point. 
->
+
 > But let's tackle the first, because it's easy. Whatever it is you're publishing should be linkable: it should have a URL that other things can point to.
->
+
 > For the web, that rule is pretty clear: whether you use Chrome or Safari or Edge or Opera or whatever, when you click a link or type in a URL, you get the page you wanted (more or less). Those pages are agnostic to the client.
->
+
 > That agnosticism isn't easy; it's driven by web standards and the W3C organization that crafts them. 
->
+
 > It can get messy, though, especially with technologies like Instant Articles or AMP. Particularly AMP, which is build on a subset of the same HTML stack that powers the web.
->
+
 > ...  the real issue for AMP being part of the web is that Google defines the terms of what does and doesn't work on AMP and could limit it whenever it likes.
 
 
@@ -99,9 +99,9 @@ May 2017 Daring Fireball [post](https://daringfireball.net/linked/2017/05/20/gil
 January 2017 - danielmiessler.com - [Google AMP is Not a Good Thing](https://danielmiessler.com/blog/google-amp-not-good-thing/)
 
 > The entire point of the [web] was to link to things. You create something. We link to it. I create something. We link to it. That’s why they called it a web.
-
+>
 > But now we’re seeing these new models that are looking to break the system. Create central platforms and get everyone using it. Build a search engine and display people’s content without passing the user through to it. It’s poisonous to the underlying concept of an open [web].
-
+>
 > So, short version, AMP is bad. It’s an attack on the core principle of net, inter, web, and all the other metaphorical terms that we think of when we imagine the internet. They all mean connectedness. To each other.
 
 
@@ -112,9 +112,9 @@ May 2017 scripting.com [post](http://scripting.com/2017/05/31.html#a110526)
 
 
 > I don't know what your privacy settings are. So if I point to your post, it's possible a lot of people might not be able to read it.
-
+>
 > Facebook seems solid now, but they could go away or retire the service you posted on. Deprecate the links. Who knows. You might not even mind, but I do. I like my archives to last as long as possible.
-
+>
 > Get a blog. If your ideas have any value put them on the open web. Facebook is trying to kill it. Trust me you will hate yourself if they succeed. Same with Google.
 
 
@@ -123,17 +123,17 @@ May 2017 scripting.com [post](http://scripting.com/2017/05/31.html#a110526)
 June 2017 Daring Fireball [post](https://daringfireball.net/2017/06/fuck_facebook)
 
 > You might think it’s hyperbole for Winer to say that Facebook is trying to kill the open web. But they are. I complain about Google AMP, but AMP is just a dangerous step toward a Google-owned walled garden — Facebook is designed from the ground up as an all-out attack on the open web. 
-
+>
 > The original post by Marc Haynes was public, which I know because I do not have a Facebook account ... 
-
+>
 > Marc Haynes’s Facebook post about Roger Moore is viewable by anyone, but:
-
+>
 > It is not accessible to search engines. Search for “Marc Haynes Roger Moore” on any major search engine — DuckDuckGo, Google, Bing — and you will get hundreds of results. The story went viral, deservedly. But not only is the top result not Haynes’s original post on Facebook, his post doesn’t show up anywhere in the results because Facebook forbids search engines from indexing Facebook posts.
-
+>
 > Content that isn’t indexable by search engines is not part of the open web. Facebook forbids The Internet Archive from saving a copy of posts. The only way to find Facebook posts is through Facebook.
-
+>
 > The Internet Archive is our only good defense against broken links. Blocking them from indexing Facebook content is a huge “fuck you” to anyone who cares about the longevity of the stuff they link to.
-
+>
 > Treat Facebook as the private walled garden that it is. If you want something to be publicly accessible, post it to a real blog on any platform that embraces the real web, the open one.
 
 
@@ -145,9 +145,9 @@ June 2017 Daring Fireball [post](https://daringfireball.net/2017/06/fuck_faceboo
 June 2017 joecieplinski.com [post](http://www.joecieplinski.com/blog/2017/06/01/outsourcing-your-online-presence)
 
 > Look, I get that I’m the nut who doesn’t want to use Facebook. I’m not even saying don’t post your stuff to Facebook. But if Facebook is the only place you are posting something, know that you are shutting out people like me for no good reason. Go ahead and post to Facebook, but post it somewhere else, too. Especially if you’re running a business.
-
+>
 > The number of restaurants, bars, and other local establishments that, thanks to crappy web sites they can’t update, post their daily specials, hours, and important announcements only via Facebook is growing. That’s maddening. Want to know if we’re open this holiday weekend? Go to Facebook. Go to hell.
-
+>
 > It’s 2017. There are a million ways to get a web site set up inexpensively that you can easily update yourself. Setting up a Facebook page and letting your web site rot, or worse, not even having a web site of your own, is outsourcing your entire online presence. That’s truly insane. It’s a massive risk to your business, and frankly, stupid.
 
 
@@ -185,8 +185,9 @@ The server-hosted solution provides incredible flexibility, but it requires more
 <https://indieweb.org/admin_tax>
 
 > admin tax is all the time you spend maintaining your personal site, rather than actually using it (like to create posts).
-
+>
 > Examples of admin tax:
+>
 * DBA tax
 * renewing your domain names
 * paying bills (for web hosting, domain registrars)
@@ -222,9 +223,9 @@ Apparently, Tumblr may deactivate or recycle a username (name.tumblr.com) if the
 Tumblr sent an email like this to a user:
 
 > It's been a while since you've been on Tumblr, and we wanted to make sure that you're still interested in using the username [username]. If so, just hit this button:
-
+>
 > If not, you don't have to do anything. If we don't hear from you within two weeks, we'll just give you a temporary username and release your old one back into the wild.
-
+>
 > You can come back and change your temporary name to whatever you want, whenever you’re ready. Your content will all still be here when you get back.
 
 That's not a sturdy, longevity solution. The permalinks would be broken.
@@ -241,9 +242,9 @@ July 2017 - boffosocko.com - [The Facebook Algorithm Mom Problem](http://boffoso
 A silo like Facebook controls what users see. The users have less control than Facebook's algorithm.
 
 > For quite a while now, I’ve been publishing most of my content to my personal website first and syndicating copies of it to social media silos like Twitter, Instagram, Google+, and Facebook. Within the Indieweb community this process is known as POSSE an acronym for *Post on your Own Site, Syndicate Elsewhere.*
-
+>
 > Anecdotally most in social media have long known that doing this type of workflow causes your content to be treated like a second class citizen, particularly on Facebook which greatly prefers that users post to it manually or using one of its own apps rather than via API. 
-
+>
 > This means that the Facebook algorithm that decides how big an audience a piece of content receives, dings posts which aren’t posted manually within their system. Simply put, if you don’t post it manually within Facebook, not as many people are going to see it.
 
 It's a lengthy and interesting post about Chri's experience with how the Facebook algorithm controls his audience.
@@ -253,15 +254,15 @@ If his Mom likes one of his posts too soon, then Facebook displays his post main
 More from Chris:
 
 > I can post about arcane areas like Lie algebras or statistical thermodynamics, and my mom, because she’s my mom, will like all of it–whether or not she understands what I’m talking about.
-
+>
 > The problem is: Facebook, despite the fact that they know she’s my mom, doesn’t take this fact into account in their algorithm.
-
+>
 > What does this mean? It means either I quit posting to Facebook, or I game the system to prevent these mom-autolikes.
-
+>
 > Facebook allows users to specifically target their audience in a highly granular fashion from the entire public to one’s circle of “friends” all the way down to even one or two specific people. Even better, they’ll let you target pre-defined circles of friends and even exclude specific people. So this is typically what I’ve been doing to end-around my Facebook Algorithm Mom problem. I have my site up set to post to either “Friends except mom” or “Public except mom”. This means that my mom now can’t see my posts when I publish them!
-
+>
 > I come back at the end of the day after the algorithm has run its course and my post has foreseeably reached all of the audience it’s likely to get. At that point, I change the audience of the post to completely “Public”.
-
+>
 > You’ll never guess what happens next ... Yup. My mom “likes” it! Even better, I’m happy to report that generally the intended audience which I wanted to see the post actually sees it. Mom just gets to see it a bit later.
 
 That's an interesting world, Facebook. But it's one that is hard for me to grasp because I'm an old web person. I created my first HTML pages and Common Gateway Interface programs in 1996. I like message boards with flat commenting systems. I like RSS and other feed formats. I like maintaining a list of websites to visit.
@@ -275,21 +276,21 @@ I cannot imagine not seeing the content that I expect to see. It makes zero sens
 * cleverdevil.io - [User Experience and the IndieWeb](https://cleverdevil.io/2017/user-experience-and-the-indieweb)
 
 > Tools like Granary, Indigenous, and InkStone are great pieces of the puzzle, as are open source CMS's like Known and WordPress with support for Micropub, Webmention, and other IndieWeb building blocks. But, the reason that silos like Facebook, Twitter, and Instagram are popular is that they provide a convenient, easy, and attractive unified experience for content consumption, content creation, and interactions. In order to be successful, and drive mass adoption, the IndieWeb must provide a user experience on par with silos on all three of these fronts.
-
+>
 > Between RSS and Atom, Webmention, and Micropub, the building blocks are there to create such an experience in a decentralized way, with participants in the network owning their own domains, websites, and data, pulling in content from a variety of sources via feeds, and creating posts, reactions, and interactions to their own sites with notifications to other participant sites.
-
+>
 > Today, most people's experience of the web is through algorithmically generated, ad-supported timelines like Twitter and Facebook. Frequently, its on mobile devices in the native app clients for these silos, rather than through a web browser. That's really a shame.
-
+>
 > These algorithmically curated timelines are filling the gap that feed readers and aggregators like Google Reader left open. Web browsers have also ceded ground to silos, focusing purely on navigation, tab management, and search, rather than thinking about the bigger picture.
-
+>
 > The ideal solution to this problem would be a native application for desktop operating systems and mobile platforms that places user experience at the forefront, and provides:
-
+>
 > Content consumption for both the open web, through RSS/Atom, and silos like Twitter and Facebook in separate tabs or timelines.
-
+>
 > Content creation for both the open web, through Micropub, and silos like Twitter and Facebook via syndication or their APIs.
-
+>
 > Rich interactions for both the open web, through Webmention, and silos like Twitter and Facebook via their APIs.
-
+>
 > A unified experience for the rebirth of the open web is a massive market opportunity. The building blocks are there. History has shown that these kinds of experiences can become massively popular and drive innovation.
 
 
@@ -300,9 +301,9 @@ I cannot imagine not seeing the content that I expect to see. It makes zero sens
 Over 400 comments exist in that Hacker News thread. Here are excerpts from the top comment with my emphasis added:
 
 > Make your website of record **your website.** Make social media platforms and others (e.g. Google) secondary to that. Don't let Google and Facebook control how you build your website. I am amazed at companies that take their websites and subjugate them to their Facebook page. You may gain social attention but you are handing over control. 
-
+>
 > Never, ever, ever say to contact me go to facebook.com/xxxx or my email address is xxx@gmail.com. Your site is yoursite.com and your email is youremail.com. Your login to the sites you build are email addresses, not tied to social media providers. 
-
+>
 > The closed internet providers are enhancements to your sites. They do not take the place of your site. If you follow this philosophy, you are supporting the open internet. **Own your .com. Don't let others own you by taking that from you.**
 
 
@@ -315,9 +316,9 @@ Over 400 comments exist in that Hacker News thread. Here are excerpts from the t
 HN comment:
 
 > It really depends on your pages.
-
+>
 > If you are building a blog or a news site **(a classic "content" site),** it should absolutely work without javascript.
-
+>
 > If you are building an admin interface for said news site, where articles are edited and published, it is okay to require javascript.
 
 
@@ -330,13 +331,13 @@ The sonniesedge.co.uk author concluded the post with:
 * tantek.com - [js;dr = JavaScript required; Didn’t Read.](http://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
 
 > Pages that are empty without JS: dead to history (archive-org), unreliable for search results (despite any search engine claims of JS support, check it yourself), and thus ignorable. No need to waste time reading or responding.
-
+>
 > Also known as, **if it’s not curlable, it’s not on the web.**
-
+>
 > https://indiewebcamp.com/curlable
-
+>
 > Because in 10 years nothing you built today that depends on JS for the content will be available, visible, or archived anywhere on the web.
-
+>
 > All your fancy front-end-JS-required frameworks are dead to history, a mere evolutionary blip in web app development practices. Perhaps they provided interesting ephemeral prototypes, nothing more.
 
 * danluu.com - [How web bloat affects people with slow connections](https://danluu.com/web-bloat/) - [HN thread](https://news.ycombinator.com/item?id=13601451)
@@ -348,9 +349,9 @@ The sonniesedge.co.uk author concluded the post with:
 * altplatform.org - [Feed Reader Revolution](http://altplatform.org/2017/06/09/feed-reader-revolution)
 
 > Making matters worse, these social silo readers have typically, if not uniformly, turned off all external access to their own RSS feeds long ago. 
-
+>
 > If you want to read content in Facebook, you have to log in and have an account and participate there directly, you cannot just subscribe to five peoples’ content via RSS and read it anywhere you want. 
-
+>
 > This monopolistic behavior is exactly the reason we call them silos. **Content goes in, but doesn’t come back out.** 
 
 
@@ -364,17 +365,17 @@ In my open, it's an anti-open web situation when web authors cannot customize th
 
 > Medium also differs from earlier blogging services in a significant, contrarian way: it offers you, the writer, nearly zero options for the presentation of your stories. No matter what kind of story you write, or who your readers are, it gets packaged into a single, non-negotiable 
  template.
-
+>
 > As a fan of minimalism, however, I think that term is misapplied here. Minimalism doesn’t foreclose either expressive breadth or conceptual depth. On the contrary, the minimalist program—as it initially emerged in fine art of the 20th century—has been about diverting the viewer’s attention from overt signs of authorship to the deeper purity of the ingredients.
-
+>
 > If that’s the case, we can’t say that Medium et al. are offering minimalist design. **Only the veneer is minimalist.** What they’re really offering is a shift from design as a choice to design as a constant [and constraint]. Instead of minimalist design, a better term might be **homogeneous design.**
-
+>
 > On the other hand, a necessary side effect of Medium’s homogeneous design is that every story looks the same. If you agree that the role of typography is to enhance the text for the benefit of the reader (as I contend in who is ty­pog­ra­phy for?), then it stands to reason that different texts demand distinct ty­pog­ra­phy.
-
+>
 > Among web-publishing tools, I see Medium as the equivalent of a frozen pizza: not as wholesome as a meal you could make yourself, but for those without the time or motivation to cook, a potentially better option than just eating peanut butter straight from the jar.
-
+>
 > If you want to be part of something open and democratic, use open-source software. If you want to have your writing look great, learn something about ty­pog­ra­phy (or hire a designer).  I prefer web publishing despite its shortcomings, but if you don’t, then make an e-book or PDF and distribute it yourself.
-
+>
 > As writers, we don’t need companies like Medium to tell us how to use the web. Or define openness and democracy. Or tell us what’s a “waste of [our] time” and what’s not. Or determiner how and where readers experience our work. We need to decide those things for ourselves.
 
 
@@ -384,7 +385,7 @@ On July 12, 2017, during the Day of Action for Net Neutrality, The Ringer, which
 Yet, somewhat ironically, a writer at The Ringer, [whined](https://theringer.com/day-of-action-to-save-net-neutrality-protest-39f2ba5d170e) about tech companies not doing more to show support for Net Neutrality.
 
 > Tech companies are afraid to disrupt the user experience to incite political action. 
-
+>
 > ... many of the biggest consumer tech firms of our time are doing considerably less than they could (and have done in the past) to keep this issue top of mind.
 
 And what did The Ringer do on July 12, 2017 to show support for Net Neutrality? Nothing because it couldn't do anything because it relies on a CMS-hosted solution at medium.com that provides The Ringer with few customization options.
@@ -450,7 +451,7 @@ When SPA pages are [curled](https://curl.haxx.se) with a command prompt utility,
 Excerpt from a 2015 Hacker News [thread](https://news.ycombinator.com/item?id=9236551) about curl:
 
 > "If it doesn't load through curl, it's broken." --someone 
-
+>
 > ... requiring code execution in order to read data [text] is madness. I wasn't saying not to do the fancy stuff but rather to start with something which degrades well and then have your JavaScript enhance that basic experience. 
 
 That last sentence touches on the concept of [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement).
@@ -464,7 +465,7 @@ But users may prefer apps over the open web, even when acting as browsingly-only
 An "old" 2010 Wired article with the sensationalistic title [The Web is Dead. Long Live the Internet](https://www.wired.com/2010/08/ff_webrip)
 
 > As much as we love the open, unfettered Web, we’re abandoning it for simpler, sleeker services that just work. You’ve spent the day on the Internet — but not on the Web. Over the past few years, one of the most important shifts in the digital world has been the move from the wide-open Web to semiclosed platforms that use the Internet for transport but not the browser for display. 
-
+>
 > It’s driven primarily by the rise of the iPhone model of mobile computing, and it’s a world Google can’t crawl, one where HTML doesn’t rule. And it’s the world that consumers are increasingly choosing, not because they’re rejecting the idea of the Web but because these dedicated platforms often just work better or fit better into their lives (the screen comes to them, they don’t have to go to the screen). 
 
 I store most of my images at Flickr to be embedded into my web posts. That's using a silo to support my open web sites. If Flickr disappeared without warning, then my pages would contain missing images. But I backup my images to DVDs, or I used to, which permits me to retrieve the images to be uploaded to either my own site or to another image hosting service.
