@@ -29,6 +29,7 @@ title: Recent Experience
 * Express framework
 * Handlebars.js templating
 * HTML::Template
+* Supports IndieWeb concepts, such as Microformats, IndieAuth, Webmention, and MicroPub
 
 
 ### Publishing
@@ -37,6 +38,7 @@ title: Recent Experience
 * Markdown/MultiMarkdown
 * Jekyll
 * Homegrown CMS apps
+* Content that's read by Alexa on Amazon Echo smart home speaker
 
 
 ### Operating Systems
@@ -65,11 +67,6 @@ title: Recent Experience
   *  S3
   *  CloudFront
 * SSL Security with StartSSL and Let's Encrypt
-
-
-
-
-
 
 
 ### Other Experience
