@@ -8,6 +8,7 @@ title: Recent Experience
 
 * Node.js
 * Perl
+* Lua
 * API Development
 * REST
 * JSON
@@ -29,6 +30,7 @@ title: Recent Experience
 * Express framework
 * Handlebars.js templating
 * HTML::Template
+* Mustache
 * Supports IndieWeb concepts, such as Microformats, IndieAuth, Webmention, and MicroPub
 
 
