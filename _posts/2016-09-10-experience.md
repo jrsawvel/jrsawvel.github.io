@@ -6,7 +6,7 @@ title: Recent Experience
 
 <h3 id="programming" style="margin-top:40px;padding-top:0;">Programming</h3>
 
-* Node.js
+* NodeJS
 * Perl
 * Lua
 * API Development
